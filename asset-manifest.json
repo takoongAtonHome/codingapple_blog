@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/codingapple_blog/static/css/main.e572c568.css",
-    "main.js": "/codingapple_blog/static/js/main.f7f657ee.js",
+    "main.js": "/codingapple_blog/static/js/main.cf10c2d2.js",
     "static/js/453.7e4d5424.chunk.js": "/codingapple_blog/static/js/453.7e4d5424.chunk.js",
     "static/media/logo.svg": "/codingapple_blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/codingapple_blog/index.html",
     "main.e572c568.css.map": "/codingapple_blog/static/css/main.e572c568.css.map",
-    "main.f7f657ee.js.map": "/codingapple_blog/static/js/main.f7f657ee.js.map",
+    "main.cf10c2d2.js.map": "/codingapple_blog/static/js/main.cf10c2d2.js.map",
     "453.7e4d5424.chunk.js.map": "/codingapple_blog/static/js/453.7e4d5424.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e572c568.css",
-    "static/js/main.f7f657ee.js"
+    "static/js/main.cf10c2d2.js"
   ]
 }
